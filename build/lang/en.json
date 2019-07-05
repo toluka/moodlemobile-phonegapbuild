@@ -640,7 +640,7 @@
     "mm.login.cancel": "Cancel",
     "mm.login.checksiteversion": "Check that your site uses Moodle 2.4 or later.",
     "mm.login.confirmdeletesite": "Are you sure you want to delete the site {{sitename}}?",
-    "mm.login.connect": "Connect!",
+    "mm.login.connect": "synch MUELE to Phone!",
     "mm.login.connecttomoodle": "Connect to MUELE",
     "mm.login.contactyouradministrator": "Contact your site administrator for further help.",
     "mm.login.contactyouradministratorissue": "Please ask your site administrator to check the following issue: {{$a}}",
