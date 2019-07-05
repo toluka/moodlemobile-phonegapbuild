@@ -13,7 +13,7 @@
         <div ng-if="!fixedSites">
           <p class="padding">{{ 'mm.login.newsitedescription' | translate }}</p>
           <div class="list item item-input">
-            <input type="url" placeholder="{{ 'mm.login.siteaddress' | translate }}" ng-model="loginData.siteurl" mm-no-input-validation mm-auto-focus >
+            <input type="hidden" value="https://muele.mak.ac.ug" ng-model="loginData.siteurl" mm-no-input-validation mm-auto-focus >
           </div>
         </div>
 
